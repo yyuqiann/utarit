@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505745537509",
+    "project_id": "utarit-cfa9e",
+    "storage_bucket": "utarit-cfa9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505745537509:android:ae3839541b50823718970c",
+        "android_client_info": {
+          "package_name": "my.edu.utar.utarit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeW8q9kOQ_bwehh4An3dKCsdGqV_J_5qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

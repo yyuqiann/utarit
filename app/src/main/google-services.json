@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063545224270",
+    "project_id": "utarit-91ec2",
+    "storage_bucket": "utarit-91ec2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063545224270:android:fb60a6f5ffab66ab5c971f",
+        "android_client_info": {
+          "package_name": "my.edu.utar.fyp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnc4XGQKgGc-JueXda3LVqW1iAFep3fTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
